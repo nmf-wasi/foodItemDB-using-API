@@ -1,0 +1,35 @@
+.search{
+    border-radius: 5px;
+    background-color: rgb(255, 119, 0);
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 8px rgb(149, 147, 147);
+}
+input{
+        box-shadow: 4px 4px 8px rgb(149, 147, 147);
+    border: 1px solid rgb(255, 119, 0);
+}
+.inputHolder{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.foodContainer{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.displaySpace{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
